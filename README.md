@@ -37,7 +37,7 @@ Representar visualmente o modelo com diagrama EER no MySQL Workbench.
 
 
 
-- Escopo do Projeto
+- Escopo do Projeto "Modelo e-commerce.pdf"
 Entidades principais:
 
 Cliente: PF ou PJ, com atributos específicos.
